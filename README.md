@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, Devs! 👋
+- Professor por paixão!
+- Sempre aprendendo a aprender.
+- Interesse especial na área gáfica unida à tecnologia (Computação gráfica, Visão computacional e Processamento de imagens).
 
 <!--
 **fgolivo/fgolivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
